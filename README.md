@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Shubham!<br>Welcome to my GitHub profile!<br><br>👀 I’m interested in:<br><br>🧮 Traditional Mathematics: Calculus, Algebra, Combinatorics, Probability & Statistics — the backbone of logical thinking and modern tech!<br>🛡️ Cybersecurity<br>💻 Software Development<br>🎨 Art, Drawing & Photography
+👋 Hi there, I'm Shubham!<br>Welcome to my GitHub profile!<br><br>👀 I’m interested in:<br><br>🧮 Traditional Mathematics: Calculus, Algebra, Combinatorics, Probability & Statistics!<br>🛡️ Cybersecurity<br>💻 Software Development<br>🎨 Art, Drawing & Photography
 
 
 ## 🌐 Socials:
