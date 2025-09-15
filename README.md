@@ -2,7 +2,7 @@
 
 👀 I’m interested in AI/ML, cybersecurity, physics, and mathematics.
 
-🌱 Currently learning networking, Linux and building cool tools with Python & C/C++.
+🌱 Currently learning networking, Linux and exploring Cybersecurity.
 
 💞️ Open to collaborating on meaningful technical projects and ideas.
 
