@@ -1,6 +1,6 @@
 👋 Hi, I’m @Shubham-0-0-7
 
-👀 I’m interested in AI/ML, cybersecurity, physics, and mathematics.
+👀 I’m interested in cybersecurity and mathematics.
 
 🌱 Currently learning networking, Linux and exploring Cybersecurity.
 
