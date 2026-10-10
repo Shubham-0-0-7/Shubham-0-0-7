@@ -1,3 +1,1 @@
-`$ echo "connect via :"` [shubhamchhatbar1@gmail.com](mailto:shubhamchhatbar1@gmail.com)  
-`$ echo "current Location:"` sketching in a quiet corner, observing the noise.
-
+the truth isnt offline, its hidden in the logs!
